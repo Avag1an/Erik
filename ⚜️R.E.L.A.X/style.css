@@ -1,0 +1,39 @@
+#example {
+	width: 300px;
+	height: 200px;
+	border: 25px solid #15ff00;
+	padding: 20px;
+	overflow: auto;
+}
+
+#example2 {
+	width: 300px;
+	height: 200px;
+	border: 25px solid #ff0000;
+	padding: 20px;
+	overflow: auto;
+}
+
+#example3 {
+	width: 300px;
+	height: 200px;
+	border: 25px solid #fbff00;
+	padding: 20px;
+	overflow: auto;
+}
+
+#example4 {
+	width: 300px;
+	height: 200px;
+	border: 25px solid #2200ff;
+	padding: 20px;
+	overflow: auto;
+}
+
+#example5 {
+	width: 300px;
+	height: 200px;
+	border: 25px solid #3c00ff;
+	padding: 20px;
+	overflow: auto;
+}
